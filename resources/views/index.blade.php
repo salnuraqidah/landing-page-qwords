@@ -1,0 +1,6 @@
+@include('components/header')
+@include('components/certif')
+@include('components/price')
+@include('components/testimoni')
+@include('components/contact')
+@include('components/footer')
